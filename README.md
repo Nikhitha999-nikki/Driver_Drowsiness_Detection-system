@@ -3,9 +3,7 @@
 - Fatigue and drowsiness detection algorithm
 - Timely alerts to prevent the driver from falling asleep
 - Non-intrusive and easy to set up
-- **📱 Progressive Web App (PWA) support - Install like a native app!**
-- **🔄 Offline functionality with caching**
-- **🚀 Fast loading with optimized performance**on System
+- using OpenCV library
 
 
 
@@ -14,9 +12,6 @@ The Driver Drowsiness Detection System is a non-intrusive solution designed to m
 
 
 
-👉 Click the ⭐ button at the top-right of this page!
-
-[![GitHub stars](https://img.shields.io/github/stars/Gagandeep-2003/Driver-Drowsiness-Detection-System.svg?style=social)](https://github.com/Gagandeep-2003/Driver-Drowsiness-Detection-System/stargazers)
 
 
 ## Key Features
@@ -91,8 +86,7 @@ Features:
 - Real-time Eye Aspect Ratio (EAR) monitoring
 - Drowsiness warning overlay
 - Web-based UI with live video
-- **PWA installable web app**
-- **Offline caching support**
+- Using OpenCV Library
 
 
 
