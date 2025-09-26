@@ -21,12 +21,15 @@ The Driver Drowsiness Detection System is a non-intrusive solution designed to m
 ## Setup Instructions
 
 ### 1. Clone the repository
-```bash
+
+
 git clone https://github.com/Gagandeep-2003/Driver-Drowsiness-Detection-System.git
 cd Driver-Drowsiness-Detection-System
 
 ### 2. Install Dependencies
-```bash
+
+
+
 pip install -r requirements.txt
 
 
@@ -41,7 +44,7 @@ Extract it to the project directory after downloading.
 
 ### 4. Run the application
 
-```bash
+
 python main.py
 
 
