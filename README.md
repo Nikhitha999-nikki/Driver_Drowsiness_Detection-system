@@ -23,29 +23,26 @@ The Driver Drowsiness Detection System is a non-intrusive solution designed to m
 ### 1. Clone the repository
 
 
-git clone https://github.com/Gagandeep-2003/Driver-Drowsiness-Detection-System.git
-cd Driver-Drowsiness-Detection-System
-
-### 2. Install Dependencies
+git clone https://github.com/Nikhitha999-nikki/Driver_Drowsiness_Detection-system.git
+cd Driver_Drowsiness_Detection-System
 
 
 
-pip install -r requirements.txt
+### 2. Download the model
 
 
-### 3. Download the model
+This project requires the **shape_predictor_68_face_landmarks.dat** file for facial landmark detection.  
+You download this file from here alsoo
 
-This project requires the shape_predictor_68_face_landmarks.dat file for facial landmark detection. You can download it from the official dlib model repository:
-
-Download shape_predictor_68_face_landmarks.dat.bz2
-
-Extract it to the project directory after downloading.
-
-
-### 4. Run the application
+➡️ Download it from the official dlib model repository:  
+- [Download shape_predictor_68_face_landmarks.dat.bz2](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2)  
+- Extract it to the project directory after downloading.
 
 
-python main.py
+### 3. Run the application
+
+
+python "Driver Drowsiness Detection.py"
 
 
 ### Usage
